@@ -1,33 +1,177 @@
-## 欢迎来到好大口气博客
-  我喜欢前端工作
+# 个人简历
+
+  ### You buil it,you run it
+
+# 联系方式
+
+- 手机：18690454054
+- Email：haodakouqi@126.com 
+- QQ/微信号：416320627
+
+---
+
+# 个人信息
+
+ - 乔杰/男/1995 
+ - 本科/陕西科技大学大学计算机系 
+ - 工作年限：2年
+ - 微博：[@JobDeer](http://weibo.com/jobdeer)
+ - 技术博客：https://haodakouqi.github.io/(啥都灭有)
+ - Github：https://haodakouqi.github.io/(啥都灭有) 
+
+ - 期望职位：Web前端高级程序员
+ - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
+ - 期望城市：西安
+
+---
+
+# 工作经历
+（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
+
+## ABC公司 （ 2012年9月 ~ 2014年9月 ）
+
+### DEF项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+
+### GHI项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+
+### 其他项目
+
+（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+
  
+## JKL公司 （ 2010年3月 ~ 2012年8月 ）
+
+### MNO项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
 
-### Markdown
+### PQR项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-个人介绍
-# 任职要求：
- 1、熟练掌握各种WEB前端技术:Javascript/HTML5/CSS等；
+### 其他项目
 
-  2、熟练掌握前端和后端的数据交换机制 ；
-  
-  3、在熟悉JQuery等开源框架的基础上，对原生Javascript也能熟练编写.了解其他常见的js库; 
-  
-  4、工作踏实肯投入、对工作有很强的责任心，具有很强的学习能力和对新技术的追求精神;
+（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+# 开源项目和作品
+（这一段用于放置工作以外的、可证明你的能力的材料）
 
-### 学历
+## 开源项目
+（对于程序员来讲，没有什么比Show me the code能有说服力了）
 
-  毕业于陕西科技大学
-  学历：本科
+ - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+ - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
 
-### 婚姻
+## 技术文章
+（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
-单身
+- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
+- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ ```好的翻译文章可以侧证你对英文技术文档的阅读能力```）
+
+# 技能清单
+（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
+
+以下均为我熟练使用的技能
+
+- Web开发：PHP/Hack/Node
+- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
+- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
+- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
+- 数据库相关：MySQL/PgSQL/PDO/SQLite
+- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
+- 单元测试：PHPUnit/SimpleTest/Qunit
+- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+
+## 参考技能关键字
+
+本技能关键字列表是从最近招聘Web前端的数百份JD中统计出来的，括号中是出现的词频。如果你的简历要投递给有机器（简历分选系统）和不如机器（不懂技术的HR）筛选简历环节的地方，请一定从下边高频关键词中选择5～10个适合你自己的。
+
+- web(889)
+- javascript(596)
+- css(555)
+- html(430)
+- jquery(323)
+- html5(312)
+- js(311)
+- ajax(196)
+- css3(176)
+- w3c(168)
+- div(156)
+- php(134)
+- xhtml(106)
+- java(92)
+- ui(78)
+- photoshop(75)
+- dom(63)
+- xml(56)
+- json(54)
+- yui(51)
+- flash(45)
+- bootstrap(43)
+- python(43)
+- http(38)
+- dreamweaver(38)
+- ext(33)
+- linux(33)
+- seo(32)
+- prototype(29)
+- chrome(28)
+- pc(28)
+- nodejs(28)
+- firefox(26)
+- ps(25)
+- angularjs(25)
+- fireworks(24)
+- extjs(23)
+- safari(22)
+- www(22)
+- mobile(22)
+- jsp(22)
+- mvc(22)
+- backbone(21)
+- node(21)
+- ruby(20)
+- github(19)
+- ios(18)
+- ie6(18)
+- android(18)
+- asp(18)
+- sass(17)
+- wap(16)
+- mootools(16)
+- ie(16)
+- mysql(15)
+- flex(14)
+- firebug(13)
+- bom(13)
+- webapp(12)
+- less(12)
+- web2(11)
+- angular(10)
+- git(10)
+- dw(10)
+- as(10)
+- mac(10)
+- psd(8)
+- o2o(7)
+- dojo(7)
+- actionscript3(6)
+- grunt(5)
+- ue(5)
+- zepto(5)
+- actionscript(5)
+- ie8(5)
+- coffeescript(5)
+- django(4)
+
+
+---
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
