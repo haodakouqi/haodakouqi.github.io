@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## 欢迎来到好大口气博客
+  1、熟练掌握各种WEB前端技术:Javascript/HTML5/CSS等；
+  2、熟练掌握前端和后端的数据交换机制 ；
+  3、在熟悉JQuery等开源框架的基础上，对原生Javascript也能熟练编写.了解其他常见的js库; 
+  4、工作踏实肯投入、对工作有很强的责任心，具有很强的学习能力和对新技术的追求精神;
+  任职要求：
+  1. 专科以上学历，计算机及相关专业优先；
+  2. 2年以上HTML5/JavaScript开发经验；
+  3. 熟悉各种Web前端技术（HTML5/CSS/Javascript)，熟练掌握跨浏览器、跨终端的开发，熟悉W3C标准；
+  4. 熟悉Ajax以及Json，Xml等数据交换格式；
+  5. 熟悉浏览器渲染原理，精通主流前端调优工具，对Web性能优化有深入了解；
+  6. 熟练掌握JQuery，VUE，angularjs,React Js，mui,framework(最少一种)等框架的应用和项目开发；
 
-You can use the [editor on GitHub](https://github.com/haodakouqi/haodakouqi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
