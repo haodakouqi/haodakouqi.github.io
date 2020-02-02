@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-c6bca632"],{"3a52":function(n,e,c){},c23a:function(n,e,c){"use strict";c.r(e);var a=function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("div",[n._v("\n  permission page\n")])},i=[],t={name:"permission"},s=t,o=(c("dae8"),c("048f")),u=Object(o["a"])(s,a,i,!1,null,"7cdccd2b",null);u.options.__file="index.vue";e["default"]=u.exports},dae8:function(n,e,c){"use strict";var a=c("3a52"),i=c.n(a);i.a}}]);
-//# sourceMappingURL=chunk-c6bca632.c8408884.js.map

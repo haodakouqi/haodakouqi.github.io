@@ -1,0 +1,21 @@
+{
+  "navObject": {
+    "sonic": "分布式调度平台",
+    "mars": "序列服务",
+    "libra": "数据中间件",
+    "virgo": "分布式事务中间件",
+    "alarm": "告警中心",
+    "config": "配置中心",
+    "deploy": "部署中心",
+    "governance": "服务治理",
+    "monitor": "监控中心",
+    "auth": "认证中心"
+  },
+  "logoObject": {
+    "sonic": "sonic.png",
+    "mars": "mars.png",
+    "libra": "libra.png",
+    "virgo": "virgo.png",
+    "oms": "oms.png"
+  }
+}
