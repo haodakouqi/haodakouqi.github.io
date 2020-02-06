@@ -1,3 +1,3 @@
 window.$config = {
-  online: true
+  online: false
 }
